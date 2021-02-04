@@ -1,10 +1,12 @@
 To run the backend  
 ```cd backend  
 npm install  
-nodemon server```  
+nodemon server
+``` 
 
 To run frontend  
-```cd fronted  
+```
+cd fronted  
 npm install  
-npm start```
-
+npm start
+```
